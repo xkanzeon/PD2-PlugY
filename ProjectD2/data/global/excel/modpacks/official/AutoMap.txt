@@ -4602,3 +4602,38 @@ Expansion
 40	wbl	31	-1	-1	Custom Act3_edge_wbl	642		-1		-1		-1
 40	fl	32	0	0	Custom Dark Tile	290		-1		-1		-1
 40	fl	33	1	1	Custom Act3_edge_wbl	642		-1		-1		-1
+42	fl	6	0	0	temple pltfm 5 31	1474		-1		-1		-1
+42	fl	6	1	1	temple pltfm 5 27	1475		-1		-1		-1
+42	fl	6	2	2	temple pltfm 5 23	1476		-1		-1		-1
+42	fl	6	3	3	temple pltfm 5 19	1477		-1		-1		-1
+42	fl	1	0	2	temple floor	1469	temple floor	1470	temple floor	1471		-1
+42	fl	5	0	5	temple floor	1469	temple floor	1470	temple floor	1471		-1
+42	wl	0	0	9	G_WL	81		-1		-1		-1
+42	wl	0	11	30	G_WL	81		-1		-1		-1
+42	wl	2	0	0	G_WL	81		-1		-1		-1
+42	wl	3	0	9	G_WL	81		-1		-1		-1
+42	wl	3	12	30	G_WL	81		-1		-1		-1
+42	wr	0	0	9	G_WR	80		-1		-1		-1
+42	wr	0	11	30	G_WR	80		-1		-1		-1
+42	wr	3	0	9	G_WR	80		-1		-1		-1
+42	wr	3	14	30	G_WR	80		-1		-1		-1
+42	wtlr	0	-1	-1	G_WTLL	84		-1		-1		-1
+42	wtll	0	-1	-1	G_WTLL	84		-1		-1		-1
+42	wtlr	3	-1	-1	G_WTLL	84		-1		-1		-1
+42	wtll	3	-1	-1	G_WTLL	84		-1		-1		-1
+42	wbr	0	-1	-1	G_WBR	85		-1		-1		-1
+42	wtr	0	-1	-1	G_WTR	83		-1		-1		-1
+42	wbl	0	-1	-1	G_WBL	82		-1		-1		-1
+42	wl	1	-1	-1	G_WL	81		-1		-1		-1
+42	wr	1	-1	-1	G_WR	80		-1		-1		-1
+42	wtlr	1	-1	-1	G_WTLL	84		-1		-1		-1
+42	wtll	1	-1	-1	G_WTLL	84		-1		-1		-1
+42	wbr	1	-1	-1	G_WBR	85		-1		-1		-1
+42	co	2	4	6	G_WBR	85		-1		-1		-1
+42	co	2	0	3	temple sm col	1374		-1		-1		-1
+42	co	3	2	2	temple sm col	1374		-1		-1		-1
+42	wtr	1	-1	-1	G_WTR	83		-1		-1		-1
+42	wbl	1	-1	-1	G_WBL	82		-1		-1		-1
+42	wre	0	0	0	temple wre A	1371		-1		-1		-1
+42	wre	0	1	1	temple wre B	1372		-1		-1		-1
+42	fl	21	2	2	temple str dwn	1373		-1		-1		-1

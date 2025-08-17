@@ -1147,3 +1147,6 @@ LucionArena	1143	188	1	1	1	1	1	1	0	0	0	1	0	0	1	Expansion/Map/lucionarena.ds1	0	0
 LucionVault	1144	189	1	1	1	1	1	1	0	0	0	1	0	0	1	Expansion/Map/lucionvault.ds1	0	0	0	0	0	7340031	1	0
 Skovos Stronghold Map	1145	190	1	1	1	0	1	1	0	0	0	1	0	0	1	Expansion/Map/SkovosStrongholdV1.ds1	0	0	0	0	0	864026623	0	1
 Demon Road Map	1146	191	1	1	0	1	1	1	0	0	0	1	2	-4	4	Expansion/Map/DemonRoad1.ds1	Expansion/Map/DemonRoad2.ds1	Expansion/Map/DemonRoad3.ds1	Expansion/Map/DemonRoad4.ds1	0	0	127	0	1
+Imperial Palace	1147	192	1	1	1	1	1	1	0	0	0	1	0	0	1	Expansion/Map/Imperial_palace.ds1	0	0	0	0	0	1008	0	1
+Halls of Torture Map	1148	193	1	0	0	0	0	1	0	0	0	1	0	0	3	Expansion/Map/TortureHalls.ds1	Expansion/Map/TortureHalls2.ds1	Expansion/Map/TortureHalls3.ds1	0	0	0	15	0	1
+Imperial Palace Boss Room	1149	194	1	1	0	0	0	1	0	0	0	1	1	1	1	Expansion/Map/ImperialPalaceBossRoom.ds1	0	0	0	0	0	639	0	0

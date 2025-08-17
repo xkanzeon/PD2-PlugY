@@ -51,7 +51,7 @@ Runes 14 equiv			1						r27s	3	r28s	2	Runes 13 equiv	2170																		0
 Runes 15 equiv			1						r29s	3	r30s	2	Runes 14 equiv	2941																		0
 Runes 16 equiv			1						r31s	3	r32s	2	Runes 15 equiv	3957																		0
 Runes 17 equiv			1						r33s	1	Runes 16 equiv	5170																				0
-Map Tier 1			1			400	800		t23	1	t15	1	t12	1	t26	1	t25	1	t22	1	t36	1										0
+Map Tier 1			1			400	800		t23	1	t15	1	t12	1	t26	1	t25	1	t22	1	t36	1	t17	1								0
 Map Tier 2			1			400	800		t34	1	t31	1	t24	1	t11	1	t33	1	t13	1	t27	1	t28	1								0
 Map Tier 3			1			400	800		t3a	2	t38	2	t39	2	t37	2	t14	2	t21	2	t32	2	t16	2	t35	2						0
 T1 Map Drop			1						Map Tier 1	66	Map Tier 2	33																				0
@@ -909,9 +909,9 @@ Uber Andariel			-4	512	654	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2				
 Uber Duriel			-4	512	654	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																				0
 Uber Izual			-4	512	654	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																				0
 Bloodwitch (H)			5	800	800	972	1024	3	"gld,mul=2048"	340	Act 2 (H) Equip B	461	Act 2 (H) Junk	121	Act 2 (H) Good	121	pk2	26														0
-Treasure Fallen Gem H			2					10	Perfect Gem	2	Flawless Gem	1																				0
-Treasure Fallen Map			2					12	T3 Map Drop	2	imra	1	rera	1	imma	1	scou	1														0
-Treasure Fallen Rune H			2					12	Runes 12	7																						0
+Treasure Fallen Gem H			2					10	Perfect Gem	4	Flawless Gem	1																				0
+Treasure Fallen Map			2					12	T3 Map Drop	4	irma	1	irra	2	rrra	2	urma	1	scou	1												0
+Treasure Fallen Rune H			2					12	Runes 17	7																						0
 Treasure Fallen Craft H			1					12	crfb	1	crfc	1	crfs	1	crfh	1	crfv	1	crfu	1	crfp	1										
 Map Void			1					400	mp5	5	yps	10	rvl	40																		0
 Map Void2			2					100	mp5	10	rvl	70																				0
@@ -997,42 +997,45 @@ Treasure Fallen NM			3					11	Treasure Fallen Gem NM	1	Treasure Fallen Rune NM	1
 Treasure Fallen H			3						Treasure Fallen Gem H	1	Treasure Fallen Rune H	1	Treasure Fallen Craft H	1	Treasure Fallen Map	1	"gld,mul=4096"	1														0
 Larzuk Puzzlebox N				0																												0
 Larzuk Puzzlebox NM				4500	100																											0
-Larzuk Puzzlebox H				2250	100																											0
+Larzuk Puzzlebox H				1688	100																											0
 Larzuk Puzzlepiece N				4050	100																											0
 Larzuk Puzzlepiece NM				2025	100																											0
-Larzuk Puzzlepiece H				900	100																											0
-SkeletonKey N				5000	1000																											
-SkeletonKey NM				5000	1000																											
+Larzuk Puzzlepiece H				675	100																											0
+SkeletonKey N				15000	1000																											
+SkeletonKey NM				7500	1000																											
 SkeletonKey H				5000	1000																											
-Horadric ID Book N				5000	1000																											
-Horadric ID Book NM				5000	1000																											
+Horadric ID Book N				15000	1000																											
+Horadric ID Book NM				7500	1000																											
 Horadric ID Book H				5000	1000																											
-Horadric TP Book N				5000	1000																											
-Horadric TP Book NM				5000	1000																											
+Horadric TP Book N				15000	1000																											
+Horadric TP Book NM				7500	1000																											
 Horadric TP Book H				5000	1000																											
-Lillith Mirror N				25000	1000																											
-Lillith Mirror NM				25000	1000																											
+Lillith Mirror N				75000	1000																											
+Lillith Mirror NM				37500	1000																											
 Lillith Mirror H				25000	1000																											
-Vial of Lightsong N				7500	1000																											
-Vial of Lightsong NM				7500	1000																											
+Vial of Lightsong N				22500	1000																											
+Vial of Lightsong NM				11250	1000																											
 Vial of Lightsong H				7500	1000																											
 Corrupted Zone				150																												
 Unique Map Monsters				7500	10																											
 Unique Map MapBoss				6000																												
-Rathma Jawbone N				2000	100																											
-Rathma Jawbone NM				6750	10																											
+Rathma Jawbone N				0	100																											
+Rathma Jawbone NM				0	10																											
 Rathma Jawbone H				2250	10																											
 UberAncients T1				5440																												
 UberAncients T2				5440																												
 UberAncients T3				5440																												
-lucbN				1500	10																											
-lucbNM				6000																												
+lucbN				0	10																											
+lucbNM				0																												
 lucbH				2000																												
 lucc				4000																												
-lucdN				2300	100																											
-lucdNM				7800	10																											
+lucdN				0	100																											
+lucdNM				0	10																											
 lucdH				2600	10																											
 T4MidMapBoss		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	scrb	3								0
 T4FinalMapBoss		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	scrb	3								0
-LucionChestLow		90	3	800	900	990	1024	0	Act 5 (H) Equip C	200	Act 5 (H) Good	100	Runes 15 equiv	30	wss	25																0
-LucionChestHigh		90	3	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	scrb	3																0
+LucionChestLow		90	6	800	900	990	1024	0	Act 5 (H) Equip C	200	Act 5 (H) Good	100	Runes 15 equiv	30	wss	25																0
+LucionChestHigh		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	scrb	3																0
+Demonic Cube N				20000	1000																											
+Demonic Cube NM				10000	1000																											
+Demonic Cube H				5000	1000																											
