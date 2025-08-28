@@ -12,6 +12,17 @@ This repository combines both the [PD2-Singleplayer](https://github.com/BetweenW
 Alternatively, if you are only interested in running PlugY cleanly:
 ### [Download PlugY Only](https://github.com/xkanzeon/PD2-PlugY/raw/main/PD2-PlugY.zip)
 
+---
+### Non-PlugY
+
+For the convenience of anyone not using PlugY or anyone using a PlugY config that does not disable the native PD2 shared stash, a shared stash containing 1,000 of each item in the materials tab has been provided by [@TDLofCC](https://github.com/TDLofCC) (TDLPlaysGames). This file will go into your save folder (typically `Diablo II\Save\`).
+
+**NOTE: This will overwrite any <ins>offline</ins> shared stash data you already have. Backup your own pd2_shared.stash file if you have something you want to keep.**
+
+### [Download PD2 Shared Stash](https://github.com/xkanzeon/PD2-PlugY/raw/main/pd2_shared.stash)
+
+---
+
 ## Setup Guide
 1. Ensure you have *Diablo II LoD* and *PD2* installed
 2. Copy the **ProjectD2** and **Save** folders from the downloaded file into your own **Diablo II** folder
