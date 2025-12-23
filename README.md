@@ -32,20 +32,19 @@ For the convenience of anyone not using PlugY or anyone using a PlugY config tha
 3. Run **PlugY.exe** as administrator
 
 ---
-### Season 11 Progress
+### Season 12 Progress
 
 - [X] New uniques
-- [X] New sets
-- [X] New maps (Missing unid uniques and need to roll some magic/rare variants)
-- [X] Updated uniques
-- [X] Updated sets
+- [X] Anniversary uniques (currently not max stats)
+- [X] New map (Missing unid and need to roll some magic/rare variants)
+- [ ] Updated uniques
+- [ ] Updated sets
 - [ ] Updated maps
 - [ ] Update runewords
-- [X] Updated % LCs (never updated to S10)
 - [X] Update "official" modpack
 - [ ] Update "max_stats" modpack (Uniques and sets are good to go.)
 - [ ] Update "testing" modpack (CubeMain's deterministic corrupts and re-crafting could use some love.)
-- [X] Update PlugY.ini (This will be getting two versions. One for pure PlugY and one for PD2 stash.)
+- [ ] Split PlugY.ini (This will be getting two versions. One for pure PlugY and one for PD2 stash.)
 - [ ] Other stuff?
 
 ---

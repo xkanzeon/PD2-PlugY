@@ -1,6 +1,6 @@
 ### official
 
-* Updated: Season 11 (patch 4)
+* Updated: Season 12 (patch 4)
 
 Includes the official PD2 files without any modifications (for reference)
 
