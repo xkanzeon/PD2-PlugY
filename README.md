@@ -185,3 +185,11 @@ Low Priority Improvements
 * Some generated runeword item bases are missing certain stats, such as 10-50% FCR for staves
 * Some example runewords are made with items that have higher level requirements than the runewords themselves
 -->
+
+---
+
+If this repository does not receive an update by June/July-ish 2026 (even just to remove this notice), a successful suicide can be assumed--marking the end of future update chances as well.
+
+<div align=right>
+- Kanzeon
+</div>
